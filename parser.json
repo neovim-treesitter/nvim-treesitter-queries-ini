@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/justinmk/tree-sitter-ini",
+  "lang": "ini",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "ini"
+  "parser_version": "e4018b5176132b4f3c5d6e61cea383f42288d0f5",
+  "location": null
 }
